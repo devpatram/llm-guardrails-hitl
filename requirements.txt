@@ -1,0 +1,2 @@
+# The offline provider needs nothing. Gemini needs the Google Gen AI SDK.
+google-genai>=1.0

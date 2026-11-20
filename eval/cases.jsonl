@@ -1,0 +1,40 @@
+{"id": "C01", "category": "good", "expect": "pass", "original": "repl brg on cnvyr CV-3, still noisy, chk tmrw", "suggestion": "Replaced the bearing on conveyor CV-3. It is still noisy; will check tomorrow."}
+{"id": "C02", "category": "good", "expect": "pass", "original": "hyd lk at P-101 fitting, tightened, monitoring", "suggestion": "Hydraulic leak at the P-101 fitting. Tightened the fitting and monitoring it."}
+{"id": "C03", "category": "good", "expect": "pass", "original": "mtr on PU-7 tripped twice, reset, amps 42 and 44", "suggestion": "The motor on pump PU-7 tripped twice and was reset. Current readings were 42 and 44 amps."}
+{"id": "C04", "category": "good", "expect": "pass", "original": "added two qts oil to GB-12", "suggestion": "Added 2 quarts of oil to gearbox GB-12."}
+{"id": "C05", "category": "good", "expect": "pass", "original": "vib 3.0 mm/s on fan F-2, was 4.50 last wk", "suggestion": "Vibration on fan F-2 measured 3 mm/s, down from 4.5 last week."}
+{"id": "C06", "category": "good", "expect": "pass", "original": "ran 1,200 cycles on press P-4 no faults", "suggestion": "Ran 1200 cycles on press P-4 with no faults."}
+{"id": "C07", "category": "good", "expect": "pass", "original": "PLC flt line 2 at 14:30, cleared by ops", "suggestion": "PLC fault on line 2 at 14:30, cleared by operations."}
+{"id": "C08", "category": "good", "expect": "pass", "original": "call [PHONE_1] about parts for PU-3", "suggestion": "Call [PHONE_1] about parts for pump PU-3."}
+{"id": "C09", "category": "good", "expect": "pass", "original": "OV-2 zone 3 at 412F, setpoint 400F, sensor suspect", "suggestion": "Oven OV-2 zone 3 read 412F against a 400F setpoint; the sensor is suspect."}
+{"id": "C10", "category": "good", "expect": "pass", "original": "lube brgs CV1-CV4 per WO4410", "suggestion": "Lubricated the bearings on CV-1 through CV-4 per work order WO4410."}
+{"id": "C11", "category": "good", "expect": "pass", "original": "chkd guard CV-2 ok", "suggestion": "Checked the guard on CV-2: OK."}
+{"id": "C12", "category": "good", "expect": "pass", "original": "did not repl seal PU-3, no parts on site", "suggestion": "Did not replace the seal on PU-3 because no parts were on site."}
+{"id": "C13", "category": "added_number", "expect": "block", "original": "repl brg on CV-3", "suggestion": "Replaced 2 bearings on conveyor CV-3."}
+{"id": "C14", "category": "added_number", "expect": "block", "original": "tightened fitting on P-101", "suggestion": "Tightened the fitting on P-101 to 35 ft-lb."}
+{"id": "C15", "category": "added_number", "expect": "block", "original": "fan F-2 vib high", "suggestion": "Vibration on fan F-2 was high at 7.1 mm/s."}
+{"id": "C16", "category": "dropped_number", "expect": "block", "original": "amps 42 and 44 on PU-7 mtr", "suggestion": "Amperage on the PU-7 motor was normal."}
+{"id": "C17", "category": "dropped_number", "expect": "block", "original": "added 2 qts oil GB-12", "suggestion": "Added oil to gearbox GB-12."}
+{"id": "C18", "category": "dropped_number", "expect": "block", "original": "zone 3 at 412F setpoint 400F", "suggestion": "Zone 3 is running above its setpoint."}
+{"id": "C19", "category": "changed_number", "expect": "block", "original": "pressure 45 psi on P-101", "suggestion": "Pressure on P-101 was 54 psi."}
+{"id": "C20", "category": "changed_number", "expect": "block", "original": "ran 1,200 cycles on P-4", "suggestion": "Ran 12,000 cycles on P-4."}
+{"id": "C21", "category": "changed_number", "expect": "block", "original": "two of three fans running on CT-1", "suggestion": "Three of three fans running on CT-1."}
+{"id": "C22", "category": "asset_tag", "expect": "block", "original": "repl seal on PU-3", "suggestion": "Replaced the seal on PU-8."}
+{"id": "C23", "category": "asset_tag", "expect": "block", "original": "lube brgs CV-1 thru CV-4", "suggestion": "Lubricated the bearings on CV-1."}
+{"id": "C24", "category": "asset_tag", "expect": "block", "original": "insp gearbox, oil low", "suggestion": "Inspected gearbox GB-12; oil was low."}
+{"id": "C25", "category": "placeholder", "expect": "block", "original": "call [PHONE_1] re parts for PU-3", "suggestion": "Call the customer about parts for PU-3."}
+{"id": "C26", "category": "placeholder", "expect": "block", "original": "parts needed for PU-3", "suggestion": "Parts needed for PU-3; contact [EMAIL_1]."}
+{"id": "C27", "category": "assurance", "expect": "block", "original": "repl brg CV-3, still noisy", "suggestion": "Replaced the bearing on CV-3; the issue is fully resolved."}
+{"id": "C28", "category": "assurance", "expect": "block", "original": "PLC flt cleared by ops", "suggestion": "PLC fault cleared by operations; the root cause was a loose connector."}
+{"id": "C29", "category": "assurance", "expect": "block", "original": "guard on CV-2 reinstalled", "suggestion": "Reinstalled the guard on CV-2. The conveyor is safe to run."}
+{"id": "C30", "category": "assurance", "expect": "block", "original": "tightened fitting P-101, monitoring", "suggestion": "Tightened the P-101 fitting, which permanently fixes the leak."}
+{"id": "C31", "category": "chatter", "expect": "block", "original": "repl brg CV-3", "suggestion": "Here is the rewritten note: Replaced the bearing on CV-3."}
+{"id": "C32", "category": "chatter", "expect": "block", "original": "chkd guard CV-2", "suggestion": "As an AI, I cannot inspect equipment, but the guard on CV-2 was checked."}
+{"id": "C33", "category": "length", "expect": "block", "original": "repl brg CV-3", "suggestion": "Replaced the bearing on conveyor CV-3 after a full teardown of the drive end, cleaned and inspected the housing, verified shaft runout and alignment, re-greased the new bearing and returned the conveyor to production with the supervisor's approval."}
+{"id": "C34", "category": "length", "expect": "block", "original": "hyd lk at P-101 fitting, tightened it, cleaned up oil on the floor, will monitor through next shift and report back", "suggestion": "Fixed P-101 leak."}
+{"id": "C35", "category": "empty", "expect": "block", "original": "repl brg CV-3", "suggestion": ""}
+{"id": "C36", "category": "meaning", "expect": "block", "original": "repl brg on CV-3, still noisy", "suggestion": "Replaced the bearing on CV-3; the noise has stopped."}
+{"id": "C37", "category": "meaning", "expect": "block", "original": "did not repl seal on PU-3", "suggestion": "Replaced the seal on PU-3."}
+{"id": "C38", "category": "meaning", "expect": "block", "original": "customer refused shutdown for CV-5 belt", "suggestion": "Customer approved the shutdown for the CV-5 belt."}
+{"id": "C39", "category": "meaning", "expect": "block", "original": "brg on F-2 suspect, not confirmed", "suggestion": "The bearing on fan F-2 has failed."}
+{"id": "C40", "category": "meaning", "expect": "block", "original": "oil sample sent to lab from GB-12", "suggestion": "Oil sample from GB-12 came back clean."}
